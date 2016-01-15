@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Que no hay commits realizados porque primero hay que indicar de que archivos hacerlos y cuando hacerlos. Lo necesitamos para poder comenzar a llevar un control de versiones del directorio.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory almacena todo. Staging area indica que se debe guardar en el repositorio. Repositorio es una copia de cada archivo de staging area por cada commit hecho.
+
+fd
