@@ -6,4 +6,10 @@ How is the staging area different from the working directory and the repository?
 
 Working directory almacena todo. Staging area indica que se debe guardar en el repositorio. Repositorio es una copia de cada archivo de staging area por cada commit hecho.
 
-fd
+How can you use the staging area to make sure you have one commit per logical change?
+
+Porque vamos añadiendo los archivos que han sido necesarios para ese cambio lógico y ninguno más. Y así solo guardamos esos archivos. 
+
+What are some situations when brandches would be helpful in keeping your history organized? How would brandches help?
+
+Versiones que se dividen en partes logicas que hay que mantener separadas y manteniendo su version principal intactas. Tener ramificaciones permitira mantenerlo separado.
