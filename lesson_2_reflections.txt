@@ -13,3 +13,7 @@ Porque vamos añadiendo los archivos que han sido necesarios para ese cambio lógi
 What are some situations when brandches would be helpful in keeping your history organized? How would brandches help?
 
 Versiones que se dividen en partes logicas que hay que mantener separadas y manteniendo su version principal intactas. Tener ramificaciones permitira mantenerlo separado.
+
+How do the diagrams help you visualize the branch structure?
+Ayudan a saber la relación con sus parientes, como llegar de unos a otros y cuales no son alcanzables. 
+
