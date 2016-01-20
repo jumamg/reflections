@@ -22,5 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 El resuktado es la unión de todos los cambios y una hilera de todos los commits ordenados cronológicamente. Se representa así para entender donde continua la rama de la aplicación. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+Manually depura código modificado por varios usuarios y decide por el mejor. Evita errores seguros. 
 
