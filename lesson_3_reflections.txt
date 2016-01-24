@@ -5,3 +5,8 @@ Cuando trabajo con diferentes equipos y lugares o desarrollando con varios progr
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Podria sobreescribir cambios hechos por otros que fueran incompatibles con mis cambios locales.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branch crea duplicación en el primer momento pero dentro del repositorio. Clone, crea duplicación pero en repositorios diferentes. Y forks hace lo mismo que Clone pero, lo hacen los servidores de GitHub y dejando referencia al repositorio original.
+
